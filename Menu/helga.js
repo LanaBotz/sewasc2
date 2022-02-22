@@ -1,8 +1,6 @@
 fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu Bot
 
-⛾Rest Apii : https://api-helgazex.herokuapp.com
-
     『 BOT INFO 』
 
 *࿊⃟〽️* Device : Poco X3 
